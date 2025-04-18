@@ -1,13 +1,3 @@
-/*export default function About() {
-    return (
-      <div className="">
-        Ma page welcome      
-      </div>
-    );
-  }
-  
- import React from 'react'*/
-
 import Link from "next/link"
 
  
